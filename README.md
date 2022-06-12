@@ -30,7 +30,10 @@
 - Edit Student Group and Shift also Update
 - Delete Student Group and Shift Data using sweetalert
 
-## Laravel Sponsors
+## Student Group and Shift 
+- View Fee Category List. 
+- Edit Fee Category and Update
+- Delete Fee Category Data using sweetalert
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
