@@ -20,7 +20,15 @@
 > @endphp
 
 
-## Learning Laravel
+## Student Class and Year 
+- View Student Class and Year List 
+- Edit Student Class and Year also Update
+- Delete Student Class and Year Data using sweetalert
+
+## Student Group and Shift 
+- View Student Group and Shift List 
+- Edit Student Group and Shift also Update
+- Delete Student Group and Shift Data using sweetalert
 
 ## Laravel Sponsors
 
