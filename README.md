@@ -20,7 +20,9 @@
 > @endphp
 
 
-## Learning Laravel
+## Student Class and Year 
+- View Student Class and Year List 
+- Edit Student Class and Year also Update
 
 ## Laravel Sponsors
 
