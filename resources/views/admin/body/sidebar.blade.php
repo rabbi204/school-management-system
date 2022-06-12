@@ -82,6 +82,9 @@
                     <li>
                         <a href="{{ route('student.shift.view') }}"><i class="ti-more"></i>Student Shift</a>
                     </li>
+                    <li>
+                        <a href="{{ route('fee.category.view') }}"><i class="ti-more"></i>Fee Category</a>
+                    </li>
                 </ul>
             </li>
 
